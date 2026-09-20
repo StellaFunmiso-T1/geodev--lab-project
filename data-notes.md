@@ -7,7 +7,7 @@
 -774 features, Polygon
 -Columns: globalid, uniq_id, timestamp, editor, lganame, lgacode, statename, statecode, source, amapcode
 -no nulls in all the columns
--covers my LGA fully	
+- the LGA booundary covers my LGA fully	
 
 ## GRID3 NGA-Health facilities v3.0
 -Source- https://data.grid3.org/datasets/827e3638dc204f4b9ddbbd19b00954d6/about
