@@ -1,4 +1,5 @@
-# My GeoDev Lab Africa project
-How physically accessible are Health Care facilities to communities across Atiba Local Government Area based on their spatial distribution and geographic travel thresholds?
+### My GeoDev Lab Africa project
 
-Built over twelve months with GeoDEV Lab Africa, Cohort One. See project-brief.md for the full brief.
+>How physically close are communities across Atiba Local Government Area to the nearest health facility, and which community are currently underserved?
+
+Built over twelve months with GeoDEV Lab Africa, Cohort One. See [01-project-brief.md](C:\Users\HP\Documents\GeoDEVLab\my-project\01-project-brief.md) for the full brief.
