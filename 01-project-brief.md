@@ -47,6 +47,6 @@ A geospatial model showing how physically close communities within Atiba Local G
 - 1,101 out of 1,276 road segments lack surface material tags (`surface = NULL`)
 
 
-### Status: Week 1 complete. Data acquisition in Week 2, see [02-data-notes.md](C:\Users\HP\Documents\GeoDEVLab\my-project\02-datanotes.md)
+### Status: Week 1 complete. Data acquisition in Week 2, see [02-data-notes.md](02-data-notes.md)
 
 
