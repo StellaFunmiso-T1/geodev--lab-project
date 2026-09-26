@@ -8,7 +8,7 @@ What I reprojected, what I clipped, what I checked, and what I fixed.
 
 **Working CRS:** EPSG:32631 (UTM zone 31N)
 
-**Why this one:** Atiba is located in western Nigeria, within UTM zone 31N. The project's core question depends on distance measurement (settlements to nearest major road), which requires a projected CRS in metres — EPSG:4326 (geographic, degrees) and EPSG:3857 (Web Mercator, distorted away from its design purpose) are both unsuitable for this.
+**Why this one:** Atiba is located in western Nigeria, within UTM zone 31N. The project's core requires the data to be in a projected CRS and EPSG:4326 (geographic, degrees) is unsuitable for this.
 
 |Dataset|CRS as downloaded|CRS after|Operation
 |---|---|---|---|
