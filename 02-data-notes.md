@@ -125,4 +125,4 @@ There are no cells with No Data values and the downloaded raster dat extends bey
 
 **Missing attributes:** High null rates in the facility functional status (13 missing/unknown) and road surface types (1,101 missing) create data gaps. This requires running analysis scenarios based on verified functional facilities and estimating travel speeds via road classification rather than surface type
 
-**Status:** Week 2 complete. Reprojection and quality checks in Week 3, see [03-data-preparation.md](C:\Users\HP\Documents\GeoDEVLab\my-project\03-data-preparation.md)
+**Status:** Week 2 complete. Reprojection and quality checks in Week 3, see [03-data-preparation.md](03-data-preparation.md)
