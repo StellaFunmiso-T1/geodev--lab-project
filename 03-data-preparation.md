@@ -42,7 +42,7 @@ Before reprojecting, area calculation was carried out on the LGA boundaries laye
 High null rates in the Health facility functional status (13 missing/unknown) and road surface types (1,101 missing) create data gaps. This requires running analysis scenarios based on verified functional facilities and estimating travel speeds via road classification rather than surface type
 
 ## 5. The analysis-ready output
-- File: Data\Processed\HealthFacilities_AtibaLGA_UTM31.gpkg, Data\Processed\Highway_in_AtibaLGA_UTM31.gpkg Data\Processed\AtibaLGA_UTM31.gpkg, Data\Processed\PopulationCount_AtibaLGA_UTM31.tif",Data\Processed\DEM_AtibaLGA_UTM31.tif"
+- File: Data\Processed\HealthFacilities_AtibaLGA_UTM31.gpkg, Data\Processed\Highway_in_AtibaLGA_UTM31.gpkg, Data\Processed\AtibaLGA_UTM31.gpkg, Data\Processed\PopulationCount_AtibaLGA_UTM31.tif", Data\Processed\DEM_AtibaLGA_UTM31.tif"
 - Format: GeoPackage, GeoTIFF
 - CRS: EPSG:32631
 - Features: Study area 1; Roads 1276; HealthFacilities 36, Population count, DEM
