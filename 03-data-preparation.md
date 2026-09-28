@@ -16,7 +16,7 @@ What I reprojected, what I clipped, what I checked, and what I fixed.
 |Health Facilities|EPSG:4326|EPSG:32631|Reprojected|
 |Road and Transport network|EPSG:4326|EPSG:32631|Reprojected|
 |Population count|EPSG:4326|EPSG 32631|Reprojected and Resampled
-|DEM|EPSG:4326|EPSG 32631|Reprojected and Resampled
+|GRID3 settlement extents|EPSG:3857|EPSG:32631|	Reprojected
 
 Before reprojecting, area calculation was carried out on the LGA boundaries layer in its native EPSG:4326 CRS to confirm the failure mode: this returned a value of 672544957.700 while after it was reprojected a value of 672544957.7107584 sqm (6725.449577107584 sqkm). This is a concern as the source CRS is in EPSG 4326-WGS 84 and approximately same value was returned for the projected CRS.
 
@@ -39,12 +39,12 @@ Before reprojecting, area calculation was carried out on the LGA boundaries laye
 
 ## 4. Problems found, and what I did
 
-High null rates in the Health facility functional status (13 missing/unknown) and road surface types (1,101 missing) create data gaps. This requires running analysis scenarios based on verified functional facilities and estimating travel speeds via road classification rather than surface type
+High null rates in the Health facility functional status (13 missing/unknown) and road surface types (1,101 missing) create data gaps. This requires running analysis scenarios based on verified functional facilities
 
 ## 5. The analysis-ready output
-- File: Data\Processed\HealthFacilities_AtibaLGA_UTM31.gpkg, Data\Processed\Highway_in_AtibaLGA_UTM31.gpkg, Data\Processed\AtibaLGA_UTM31.gpkg, Data\Processed\PopulationCount_AtibaLGA_UTM31.tif", Data\Processed\DEM_AtibaLGA_UTM31.tif"
+- File: Data\Processed\HealthFacilities_AtibaLGA_UTM31.gpkg, Data\Processed\Highway_in_AtibaLGA_UTM31.gpkg Data\Processed\AtibaLGA_UTM31.gpkg, Data\Processed\PopulationCount_AtibaLGA_UTM31.tif", Data\Processed\Settlement_extent_AtibaLGA_UTM31.gpkg"
 - Format: GeoPackage, GeoTIFF
 - CRS: EPSG:32631
-- Features: Study area 1; Roads 1276; HealthFacilities 36, Population count, DEM
+- Features: Study area 1; Roads 1276; HealthFacilities 36, Population count
 - Produced by: Manually in QGIS (Reproject Layer, resampled, Clip)
 - Status: Week 3 complete. First spatial analysis in Week 4.
