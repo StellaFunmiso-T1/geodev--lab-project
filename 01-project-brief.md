@@ -9,9 +9,8 @@ Week 1 deliverable. GeoDev Lab Africa, Cohort One. Author: Stella Taiwo
 #### Atiba LGA holds dense urban neighborhoods near Oyo town and sprawling, sparsely populated rural wards. In emergencies or routine maternal checkups, travel distance directly determines survival.
 
 Before building new facilities or deploying mobile clinics, decision-makers need empirical geographic answers:
-- Who lives too far from care?
+- Who lives too far from care >5km WHO standard?
 - Are facilities clustered only in the urban core while rural farming communities are neglected?
-- Exactly how many people fall outside acceptable travel limits?
 
 
 ## **3. Study area**
@@ -33,7 +32,7 @@ Atiba Local Government Area, Oyo State, Nigeria. Boundary defined by the GRID3 N
 |2|Health Facilities|The location of captured Health facilities within Nigeria and clipped to define and identify those within the study area |https://data.grid3.org| Shapefile|4.73mb|
 |3|Road and Transport network| The network of roads and paths within the study area |OpenStreetMap|Shapefile|399kb |
 |4|Population count|The total number of people per grid-pixel in Nigeria to be clipped |hub.worldpop.org|GeoTIFF|4.15MB|
-|5|DEM|The elevation model of points or positions within the study area |https://portal.opentopography.org/| GeoTIFF|98.9mb|
+|5|Settlement extent|Built-up settlement polygons|	https://data.grid3.org|GeoPackage|~1.9 GB (nationwide)|
 
 ## **6. What "done" looks like?**
 
