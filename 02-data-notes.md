@@ -12,7 +12,7 @@ What I downloaded, where it came from, what is in it, and what is wrong with it.
 |Health Facilities| Vector (points)|13/09/2026|OK|
 |Road and Transport network|Vector (Lines)|12/09/2026|OK|
 |Population count|Raster (GeoTIFF)|17/09/2026|OK|
-|DEM|Raster (GeoTIFF)|17/09/2026|OK|
+
 
 ### **1. Nigeria LGA Level Data**
 
@@ -107,17 +107,24 @@ The roads are of different classes and there are quite a number of null in the a
 **What I noticed**
 There are cells with No Data values and they are found to be areas with no visible settlemnt when compared with Google satellite imagery. 
 
-### **4. DEM**
+### **4. GRID3 Nigeria Settlement Extents v4.1**
+- Source: https://data.grid3.org
+- Retrieved: 17/9/2026
+- File: data/raw/nga_settlement_extents_v4_1.gpkg
+- Format: GeoPackage
+- Geometry type: Polygon (MultiPolygon)
+- Feature count: 2,546,560 (nationwide)
+- CRS as downloaded: EPSG:3857
 
-- Source:https://portal.opentopography.org
-- Retrieved: 17/09/2026
-- File: GeoDEVLab/my-project/Data/raw/output_hh.tif"
-- Format: GeoTIFF
-- Resolution:30m
-- CRS as downloaded: EPSG:4326-WGS 84
+**Key columns**
+
+|Column|What it holds|Nulls|
+|---|---|---|
+|More than 20 columns|Different attribute type|Not confirmed|
 
 **What I noticed**
-There are no cells with No Data values and the downloaded raster dat extends beyond my study area which will be subsequently clipped.
+
+The attributes depictes building statistics such as Mean area, maximun area, minimum area, building count etc.
 
 ### Cross-cutting problems
 
