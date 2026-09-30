@@ -14,7 +14,6 @@ Built over twelve months with GeoDEV Lab Africa, Cohort One. See [01-project-bri
 │  ├── 02-data-notes.md                 Week 2
 │  ├── 03-data-preparation.md           Week 3
 │  ├── 04-spatial-analysis.md           Week 4
-│  ├── HealthFacilities_AtibaLGA.png    final map
 │  └── month-1-summary.md          month 1's summary
 │       
 ├──data/
@@ -30,9 +29,9 @@ The data is not in this repository. Every source is linked in the projectbrief, 
 Access all what have been done from week 1 to week 4 here
 
 Project
-- [x] Week 1, project brief with a source link for every dataset
-- [x] Week 2, data downloaded, opened and described
-- [x] Week 3, reprojected, clipped and quality checked
-- [x] Week 4, first spatial analysis, checked four ways
+- [x] [Week 1](01-project-brief.md), project brief with a source link for every dataset
+- [x] [Week 2](02-data-notes.md), data downloaded, opened and described
+- [x] [Week 3](03-data-preparation.md), reprojected, clipped and quality checked
+- [x] [Week 4](04-spatial-analysis.md), first spatial analysis, checked four ways
 
 Stella Taiwo. GeoDev Lab Africa Learn. Build. Collaborate. Transform.
