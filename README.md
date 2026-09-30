@@ -30,9 +30,9 @@ The data is not in this repository. Every source is linked in the projectbrief, 
 Access all what have been done from week 1 to week 4 here
 
 Project
-- [x] [Week 1](01-project-brief.md), project brief with a source link for every dataset
-- [x] [Week 2](02-data-notes.md), data downloaded, opened and described
-- [x] [Week 3](03-data-preparation.md), reprojected, clipped and quality checked
-- [x] [Week 4](04-spatial-analysis.md), first spatial analysis, checked four ways
+- [x] [Week 1](Doc/01-project-brief.md), project brief with a source link for every dataset
+- [x] [Week 2](Doc/02-data-notes.md), data downloaded, opened and described
+- [x] [Week 3](Doc/03-data-preparation.md), reprojected, clipped and quality checked
+- [x] [Week 4](Doc/04-spatial-analysis.md), first spatial analysis, checked four ways
 
 Stella Taiwo. GeoDev Lab Africa Learn. Build. Collaborate. Transform.
