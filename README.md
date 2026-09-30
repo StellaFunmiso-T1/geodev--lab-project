@@ -14,6 +14,7 @@ Built over twelve months with GeoDEV Lab Africa, Cohort One. See [01-project-bri
 │  ├── 02-data-notes.md                 Week 2
 │  ├── 03-data-preparation.md           Week 3
 │  ├── 04-spatial-analysis.md           Week 4
+│  ├── HealthFacilities_AtibaLGA.png    final map
 │  └── month-1-summary.md          month 1's summary
 │       
 ├──data/
