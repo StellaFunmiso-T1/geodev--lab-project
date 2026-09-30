@@ -34,5 +34,6 @@ Project
 - [x] [Week 2](Doc/02-data-notes.md), data downloaded, opened and described
 - [x] [Week 3](Doc/03-data-preparation.md), reprojected, clipped and quality checked
 - [x] [Week 4](Doc/04-spatial-analysis.md), first spatial analysis, checked four ways
+- [x] [Month_1 summary](Doc/month-1-summary.md)
 
 Stella Taiwo. GeoDev Lab Africa Learn. Build. Collaborate. Transform.
