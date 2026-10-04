@@ -37,3 +37,7 @@ Project
 - [x] [Month_1 summary](Doc/month-1-summary.md)
 
 Stella Taiwo. GeoDev Lab Africa Learn. Build. Collaborate. Transform.
+
+## Month 2 : preparation of environment, and early python
+
+- Week 5: Setup python, Vs code and the terminal. hello.py runs
