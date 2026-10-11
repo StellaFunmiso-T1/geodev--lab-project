@@ -5,7 +5,7 @@ A spatial model identifying which communities in Atiba Local Government Area, Oy
 ## The question
 >How physically close are communities across Atiba Local Government Area to the nearest health facility, and which community are currently underserved?
 
-Built over twelve months with GeoDEV Lab Africa, Cohort One. See [01-project-brief.md](C:\Users\HP\Documents\GeoDEVLab\my-project\Doc) for the full brief.
+Built over twelve months with GeoDEV Lab Africa, Cohort One. See [01-project-brief.md](Doc/01-project-brief.md) for the full brief.
 
 ```
 <atiba-healthcare-accessibility>/
