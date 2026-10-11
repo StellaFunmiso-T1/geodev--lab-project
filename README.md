@@ -40,4 +40,7 @@ Stella Taiwo. GeoDev Lab Africa Learn. Build. Collaborate. Transform.
 
 ## Month 2 : preparation of environment, and early python
 
-- Week 5: Setup python, Vs code and the terminal. hello.py runs
+- Week 5: Setup python, Vs code and the terminal.
+  hello.py runs
+- Week 6: set up the project with uv and added pandas.
+  check.py prints the pandas version.
