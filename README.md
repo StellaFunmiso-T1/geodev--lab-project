@@ -1,4 +1,4 @@
-# Atiba LGA Healthcare Accessibility
+<img width="1917" height="1019" alt="image" src="https://github.com/user-attachments/assets/46372288-0859-40c6-becc-00d5e67efaec" /># Atiba LGA Healthcare Accessibility
 
 A spatial model identifying which communities in Atiba Local Government Area, Oyo State, are located further than the WHO 5km standard from functional healthcare facilities and also identify underserved communities.
 
@@ -44,3 +44,5 @@ Stella Taiwo. GeoDev Lab Africa Learn. Build. Collaborate. Transform.
   [hello.py](hello.py) runs
 - Week 6: set up the project with uv and added pandas.
   [check.py](check.py) prints the pandas version.
+- Week 7: [analyse.py](analyse.py) reads [wards.csv](wards.csv), converts each area and classifies each ward
+
